@@ -107,7 +107,7 @@ QMT / PTrade 动辄 50 万起的资金门槛，加上漫长的白名单审批。
 
 <div align="center">
 
-<img src="assets/wechat-qr.png" width="240" alt="微信扫码添加：Zsice53">
+<img src="assets/wechat-contact-qr.png" width="240" alt="微信扫码添加：Zsice53">
 
 **微信：`Zsice53`**
 

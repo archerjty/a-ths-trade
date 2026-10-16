@@ -120,15 +120,11 @@ a-ths-trade 是付费产品。
 
 ## 获取与咨询
 
-<div align="center">
-
-<img src="assets/wechat-contact-qr.png" width="240" alt="微信扫码添加 Zsice53">
-
-**微信 `Zsice53`**
-
-扫码添加，或搜索微信号
-
-</div>
+| 个人微信 | 交流群 |
+|:---:|:---:|
+| <img src="assets/wechat-contact-qr.png" width="200" alt="微信扫码添加 Zsice53"> | <img src="assets/wechat-group-qr.png" width="200" alt="微信群扫码加入 Qmt ths trade 交流"> |
+| **微信 `Zsice53`** | **Qmt ths trade 交流** |
+| 扫码添加，或搜索微信号 | 扫码进群 |
 
 ---
 

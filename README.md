@@ -128,5 +128,6 @@ Telegram：[**@thstrade**](https://t.me/thstrade)
 
 ## 说明
 
+- 文档与下载站：<https://doc.anepgrto.online/>
 - 本仓库为产品介绍页，不含源码。
 - 交易有风险，软件不构成任何投资建议。请在自有账户上自行评估后使用。

@@ -128,7 +128,9 @@ a-ths-trade 是付费产品。
 
 Telegram：[**@thstrade**](https://t.me/thstrade)
 
-添加后直接说明用途、账户数和部署方式。
+邮箱：[reply5685@outlook.com](mailto:reply5685@outlook.com)
+
+联系时说明用途、账户数和部署方式。
 
 ---
 

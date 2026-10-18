@@ -110,6 +110,12 @@ QMT / PTrade 动辄 50 万起的资金门槛，加上漫长的白名单审批。
 
 ---
 
+## 在开发
+
+**同花顺接口 L2 数据**，开发中。想第一时间知道进度，先关注 Telegram [@thstrade](https://t.me/thstrade)。
+
+---
+
 ## 授权与价格
 
 a-ths-trade 是付费产品。
